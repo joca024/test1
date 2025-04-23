@@ -1,0 +1,7 @@
+schemaVersion: "1.0"
+export:
+  exportVersion: "1.0"
+  timestamp: "20250423T144007Z"
+  projectKey: "DEFAULT-TEST2-MASTER"
+  exportHost: "aks59cfa121.norwayeast.cloudapp.azure.com:443"
+  exportUser: "admin"
