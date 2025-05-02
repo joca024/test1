@@ -7,4 +7,4 @@ pattern:
     host:
     - "pattern://00be5af5f7a2001c83b56179"
     path: "/"
-    backends: "https://www.youtube.com"
+    backends: "https://www.google.com"
