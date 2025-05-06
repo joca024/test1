@@ -7,3 +7,4 @@ pattern:
     proxy:
     - "pattern://f2bea680aec44c2a114182cd"
     addresses: "https://aks59cfa121.norwayeast.cloudapp.azure.com"
+    crsVersion: "custom"
