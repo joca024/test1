@@ -2,8 +2,7 @@ schemaVersion: "1.0"
 pattern:
   id: "00be5af5f7a2001c83b56179"
   className: "ch.nevis.admin.v4.plugin.nevisproxy.patterns.HostContext"
-  #name: "New Virtual Host - not so new"
-  name: ""
+  name: "New Virtual Host - not so new"
   properties:
     proxy:
     - "pattern://f2bea680aec44c2a114182cd"
